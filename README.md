@@ -85,6 +85,4 @@ Si deseas colaborar en este proyecto, no dudes en abrir un **issue** o enviar un
 
 ---
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
 
